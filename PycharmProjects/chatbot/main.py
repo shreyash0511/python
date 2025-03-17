@@ -1,3 +1,4 @@
+print()
 print("welcome to panda ai")
 print()
 print("ask me anything you want")
@@ -21,4 +22,5 @@ elif q1 == "how to make a hello world script in python":
     print('print("hello world") ')
 else:
     print("sorry panda ai hasn't been trained to do this")
+print()
 

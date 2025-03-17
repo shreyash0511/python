@@ -1,3 +1,4 @@
+print()
 print("welcome to the calculator")
 print("put in the first number to calculate ")
 num1 = int(input())
